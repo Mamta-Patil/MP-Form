@@ -1,0 +1,171 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main
+{
+    width:90%;
+    height: 700px;
+    margin: 5% 0% 0% 5% ;
+}
+h2
+{
+    color:grey;
+    left:0px;
+    font-size:35px;
+    padding-top: 10px;
+}
+h3
+{
+    text-align: center;
+    padding-top:50px;
+    font-size:25px;
+}
+.main-2
+{
+    width: 80%;
+    height: 525px;
+    margin: auto;
+    padding: 20px;
+}
+.first
+{
+    height: 500px;
+    width:50%;
+    background-color:whitesmoke;
+    float: left;
+}
+.first h1
+{
+    position: absolute;
+    top: ;
+   color:grey;
+}
+i{
+    position:relative;
+    left:70%;
+    font-size: 30px;
+    padding:0px 10px;
+    top:6%;
+}
+label
+{
+    padding-top: 40px;
+    padding-left: 10%;
+    font-size: 20px;
+    display: block;
+}
+input
+{
+    margin-left: 45px;
+    height: 35px;
+    width: 80%;
+    border-radius: 20px;
+}
+::placeholder
+{
+    padding-left: 5%;
+}
+.first button
+{
+    height:35px;
+    width:80%;
+    background-color: red;
+    color:white;
+    border-radius: 20px;
+    margin-top: 5%;
+}
+button:hover
+{
+    background-color: #ff4767;
+}
+.chx 
+{
+float: left;
+height: 60px;
+width:60px;
+margin-left: 0%;
+margin-top: 110px;
+}
+form a
+{
+    margin-left:6%;
+}
+.checkbox
+{
+    height: 5px;
+    width: 5px;
+}
+span
+{
+    padding:10px;
+}
+.box-cont
+{
+    display: flex;
+    width:150px;
+    border: 1px solid red;
+}
+.boxes
+{
+    width:80%;
+    margin:35px 0px 0px 0px;
+    margin-left:1%;
+    display: flex; 
+    justify-content: space-between;
+}
+.flex-box
+{
+    display: flex;
+    justify-content: space-evenly;
+    width:40%;
+}
+.second
+{
+    height: 500px;
+    width:50%;
+    background-color:#ff4767;
+    float: left;
+}
+h1
+{
+position:relative;
+transform: translate(-50%,-50%);
+left:78%;
+top:40%; 
+color:white
+}
+h4
+{
+position:relative;
+transform: translate(-50%,-50%);
+left:85%;
+top:40%;
+color:white
+}
+.second .btn-2
+{
+    position:relative;
+    transform: translate(-50%,-50%);
+    left:45%;
+    top:45%;
+    color:white;
+    height: 30px;
+    width:15%;
+    border-radius: 30px;
+    border-color: white;
+    background-color: #ff4767;
+}
+.icon-cont
+{
+    width: 500px;
+    padding: 20px 0px 0px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn-2:hover{
+    background-color: white;
+    color: black;
+}
